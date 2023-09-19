@@ -1,0 +1,2304 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Article rdf:about="#item_1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>The China Quarterly</dc:title>
+                <prism:number>No. 19 Jul. - Sep., 1964</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Vsevolod, Holubnychy</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mao Tse-tung's Materialistic Dialectics</dc:title>
+        <dc:date>1964</dc:date>
+        <bib:pages>pp. 3-37</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="#item_3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>International Publishers</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mao ZeDong</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>On Practice</dc:title>
+        <dc:date>1937</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.cambridge.org/core/journals/china-quarterly/article/abs/mao-zedongs-on-contradiction-and-on-practice-preliberation-texts/07B011DAFD1D7C2801BB341D31E2588B">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1468-2648,%200305-7410"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knight</foaf:surname>
+                        <foaf:givenName>Nick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mao ZeDong's On Contradiction and On Practice: Pre-Liberation Texts</dc:title>
+        <dcterms:abstract>Despite the flood of Mao's previously unknown works released by Red Guards during the Cultural Revolution, no pre-liberation versions of his “celebrated philosophical essays” On Contradiction and On Practice came to light from that source. This gap in the Red Guard material may have been viewed as significant, confirming suspicions held by some that there were in fact no pre-liberation versions of these essays, and showing more conclusively the mendacity of the Chinese claim that they were originally written in 1937. Arthur Cohen, perhaps the most vociferous critic of Mao's “originality” as philosopher, argued in 1964 that both essays had been written in the period 1950 to 1952, and that the Chinese claim “appears to be fraudulent.” Doolin and Golas also contest the Chinese claim that On Contradiction was written by Mao in 1937. In both cases, the motivation for this falsification of the date of composition is interpreted as being the desire to backdate Mao's status as a Marxist theoretician to the early Yan'an period. Schram and Wittfogel, however, have both accepted the possibility that On Contradiction and On Practice could have been written in 1937, while not denying that the 1950 and 1952 texts could represent heavily revised versions of earlier pieces. Schram, in fact, has argued that Mao's Lecture Notes on Dialectical Materialism, On Practice and On Contradiction belonged to “a single intellectual enterprise, namely Mao's attempt to come to terms with the philosophical basis of Marxism from the time he was first exposed to it in July 1936 until the Japanese attack of September 1937 turned his attention to more practical things.”</dcterms:abstract>
+        <dc:date>1980/12</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Mao ZeDong's On Contradiction and On Practice</z:shortTitle>
+        <z:libraryCatalog>Cambridge University Press</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/journals/china-quarterly/article/abs/mao-zedongs-on-contradiction-and-on-practice-preliberation-texts/07B011DAFD1D7C2801BB341D31E2588B</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-21 08:06:10</dcterms:dateSubmitted>
+        <dc:description>Publisher: Cambridge University Press</dc:description>
+        <bib:pages>641-668</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1468-2648,%200305-7410">
+        <prism:volume>84</prism:volume>
+        <dc:title>The China Quarterly</dc:title>
+        <dc:identifier>DOI 10.1017/S0305741000012595</dc:identifier>
+        <dc:identifier>ISSN 1468-2648, 0305-7410</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Engels, Frederick</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <dc:title>The Principles of Communism</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-21 09:14:00</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8/prin-com.html"/>
+        <dc:title>The Principles of Communism</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-21 09:14:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/reference/archive/mao/selected-works/volume-8/mswv8_48.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mao ZeDong</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_10"/>
+        <dc:title>Examples Of Dialectics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/reference/archive/mao/selected-works/volume-8/mswv8_48.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-21 09:16:59</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/10/mswv8_48.html"/>
+        <dc:title>Examples Of Dialectics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/reference/archive/mao/selected-works/volume-8/mswv8_48.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-21 09:17:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_12">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wood</foaf:surname>
+                        <foaf:givenName>Allen W</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_13"/>
+        <link:link rdf:resource="#item_11"/>
+        <dc:title>Karl Marx, 2nd Edition</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_13">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;See esp. Part 5: The Dialectical Method: &lt;/p&gt;
+&lt;p&gt;Chapter 13: Hegelian dialectic; Chapter 14: Marxian dialectic; and Chapter 15: Dialectic in “Capital”&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11/Wood - Karl Marx, 2nd Edition.pdf"/>
+        <dc:title>Wood - Karl Marx, 2nd Edition.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/2434/Karl%20Marx%202nd%20ed.pdf?sequence=1&amp;isAllowed=y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-21 09:56:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-90-474-1325-7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>BRILL</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maksakovsky</foaf:surname>
+                        <foaf:givenName>Pavel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_15"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Business &amp; Economics / Economic History</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Business &amp; Economics / Economics / General</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Business &amp; Economics / Economics / Theory</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Philosophy / General</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Political Science / Political Ideologies / Communism, Post-Communism &amp; Socialism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Capitalist Cycle: An Essay on the Marxist Theory of the Cycle</dc:title>
+        <dcterms:abstract>The Capitalist Cycle is a translation of a previously unknown work in Marxist economic theory. Originally published in 1928, this rediscovered work is one of the most creative essays witten by a Soviet economist during the first two decades after the Russian Revolution. Following the dialectic of Hegel and Marx, Maksakovsky aims to provide a 'concluding chapter' for Marx's Capital. The book examines economic methodology and logically reconstructs Marx's analysis into a comprehensive and dynamic theory of cyclical economic crises. The introductory essay by Richard B. Day situates Maksakovsky's work within the Hegelian and Marxist philosophical traditions by emphasizing the book's dialectical logic as well as its contribution to economic science.</dcterms:abstract>
+        <dc:date>2004-04-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Pavel V. Maksakovsky</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: UXkfEAAAQBAJ</dc:description>
+        <dc:identifier>ISBN 978-90-474-1325-7</dc:identifier>
+        <z:numPages>199</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Google Books Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com.au/books?id=UXkfEAAAQBAJ</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-21 10:50:58</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Marx</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_18"/>
+        <link:link rdf:resource="#item_17"/>
+        <dc:title>The Poverty of Philosophy</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-21 10:52:06</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_18">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Esp. Chapter 2, Part 1: The Method&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17/poverty-philosophy.html"/>
+        <dc:title>The Poverty of Philosophy</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-21 10:52:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/139860">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0315-4890"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sowell</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Marx's Capital after One Hundred Years</dc:title>
+        <dc:date>1967</dc:date>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/139860</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-22 00:03:46</dcterms:dateSubmitted>
+        <dc:description>Publisher: [Canadian Economics Association, Wiley]</dc:description>
+        <bib:pages>50-74</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0315-4890">
+        <prism:volume>33</prism:volume>
+        <dc:title>The Canadian Journal of Economics and Political Science / Revue canadienne d'Economique et de Science politique</dc:title>
+        <dc:identifier>DOI 10.2307/139860</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0315-4890</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/index.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Engels, Frederick</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_21"/>
+        <dc:title>Ludwig Feuerbach and the End of Classical German Philosophy</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/index.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-22 01:22:08</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/21/index.html"/>
+        <dc:title>Ludwig Feuerbach and the End of Classical German Philosophy</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/index.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-22 01:22:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/appx1.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Marx</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_24"/>
+        <link:link rdf:resource="#item_23"/>
+        <dc:title>Economic Manuscripts: Appendix I: Production, Consumption, Distribution, Exchange</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/appx1.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-22 01:23:59</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_24">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;&lt;em&gt;Marx - Introduction to A Contribution to the Critique of Political Economy&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/23/appx1.html"/>
+        <dc:title>Economic Manuscripts: Appendix I: Production, Consumption, Distribution, Exchange</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/appx1.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-22 01:24:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-0-19-953570-5%20978-0-19-192047-9">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-19-953570-5 978-0-19-192047-9</dc:identifier>
+                <dc:title>Capital</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Oxford University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:bookAuthors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marx</foaf:surname>
+                        <foaf:givenName>Karl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:bookAuthors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marx</foaf:surname>
+                        <foaf:givenName>Karl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_25"/>
+        <dc:title>Capital: Afterword to the Second German Edition</dc:title>
+        <dcterms:abstract>Since
+              1848 capitalist production has developed rapidly in Germany, and at the present time it is in the full bloom of speculation and swindling. But fate is still unpropitious to our professional economists. At the time when they were able to deal with Political...</dcterms:abstract>
+        <dc:date>2008-04-17</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://oxfordworldsclassics.com/view/10.1093/owc/9780199535705.001.0001/isbn-9780199535705-book-part-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-22 08:42:20</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1093/owc/9780199535705.003.0004</dc:description>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/25/Marx - 2008 - Afterword to the Second German Edition.pdf"/>
+        <dc:title>Marx - 2008 - Afterword to the Second German Edition.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://mofopo.com/reading/Marx_Capital.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-22 08:42:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/mao-zedong-on-dialectical-materialism-writings-on-philosophy-1937-edited-by-nick-knight-armonk-ny-m-e-sharpe-1990-295-pp-4500-report-from-xunwu-by-mao-zedong-translated-with-an-introduction-and-notes-by-roger-r-thompson-stanford-calif-stanford-university-press-1990-2750/B263D9308D6629942E2D9D572B07EEB0">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1752-0401,%200021-9118"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knight, Nick</foaf:surname>
+                        <foaf:givenName>Timothy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mao Zedong on Dialectical Materialism: Writings on Philosophy. 1937. Edited by Nick Knight. Armonk, N.Y.: M. E. Sharpe, 1990. 295 pp. 27.50.</dc:title>
+        <dcterms:abstract>//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0021911800045812/resource/name/firstPage-S0021911800045812a.jpg</dcterms:abstract>
+        <dc:date>1991/02</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Mao Zedong on Dialectical Materialism</z:shortTitle>
+        <z:libraryCatalog>Cambridge University Press</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/mao-zedong-on-dialectical-materialism-writings-on-philosophy-1937-edited-by-nick-knight-armonk-ny-m-e-sharpe-1990-295-pp-4500-report-from-xunwu-by-mao-zedong-translated-with-an-introduction-and-notes-by-roger-r-thompson-stanford-calif-stanford-university-press-1990-2750/B263D9308D6629942E2D9D572B07EEB0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-22 08:54:20</dcterms:dateSubmitted>
+        <dc:description>Publisher: Cambridge University Press</dc:description>
+        <bib:pages>133-135</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1752-0401,%200021-9118">
+        <prism:volume>50</prism:volume>
+        <dc:title>The Journal of Asian Studies</dc:title>
+        <dc:identifier>DOI 10.2307/2057492</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 1752-0401, 0021-9118</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://www.press.uillinois.edu/books/?id=p071188">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ollman, Bertell</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_31"/>
+        <dc:title>Dance of the Dialectic: Steps in Marx's method</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.press.uillinois.edu/books/?id=p071188</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-23 23:10:29</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/31/books.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.press.uillinois.edu/books/?id=p071188</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-23 23:10:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mao ZeDong</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_34"/>
+        <dc:title>On Contradiction</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-24 10:52:33</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/34/mswv1_17.html"/>
+        <dc:title>ON CONTRADICTION</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-24 10:52:39</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/archive/marx/works/1844/manuscripts/hegel.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Marx</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_36"/>
+        <dc:title>Critique of Hegel's Philosophy in General, Marx, 1844</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1844/manuscripts/hegel.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-24 10:58:40</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_36">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/36/hegel.html"/>
+        <dc:title>Critique of Hegel's Philosophy in General, Marx, 1844</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1844/manuscripts/hegel.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-24 10:58:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.proquest.com/docview/216146945/citation/F27B3B0861D4416EPQ/1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00368237"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayer</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Business And Economics--Labor And Industrial Relations</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Capitalism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dialectics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dictators</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Humanities: Comprehensive Works</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Literary And Political Reviews</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Metaphysics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Philosophy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Political Science</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Political Science--International Relations</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Politics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Principles</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Turn of the century</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Working class</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Lenin and the practice of dialectical thinking</dc:title>
+        <dc:date>Spring 1999</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/docview/216146945/citation/F27B3B0861D4416EPQ/1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-24 12:18:15</dcterms:dateSubmitted>
+        <dc:rights>Copyright Guilford Publications, Inc. Spring 1999</dc:rights>
+        <dc:description>Num Pages: 23
+Place: New York, United States
+Publisher: Guilford Press</dc:description>
+        <bib:pages>40</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00368237">
+        <prism:volume>63</prism:volume>
+        <dc:title>Science &amp; Society</dc:title>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 00368237</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://doi.org/10.1177/0309816814564128">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0309-8168"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ollman</foaf:surname>
+                        <foaf:givenName>Bertell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Marxism and the philosophy of internal relations; or, How to replace the mysterious ‘paradox’ with ‘contradictions’ that can be studied and resolved</dc:title>
+        <dcterms:abstract>The problems most people have in understanding Marx come not only from the complexity of his theories, but also from the frequent changes in the meanings of his concepts. The present article attributes this unusual practice to Marx’s ‘philosophy of internal relations’, which serves as the foundation for his dialectical method, and his use of the process of abstraction (breaking up our internally related world into the ‘parts’ best suited to study it). The ‘flexibility’ found in Marx’s use of language is the linguistic counterpart of the different abstractions he believes necessary in order to capture the complex workings of capitalism. Marx’s dialectical categories, especially ‘contradiction’, are good examples of this process at work.</dcterms:abstract>
+        <dc:date>2015-02-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>SAGE Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1177/0309816814564128</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-25 03:59:21</dcterms:dateSubmitted>
+        <dc:description>Publisher: SAGE Publications Ltd</dc:description>
+        <bib:pages>7-23</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0309-8168">
+        <prism:volume>39</prism:volume>
+        <dc:title>Capital &amp; Class</dc:title>
+        <dc:identifier>DOI 10.1177/0309816814564128</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0309-8168</dc:identifier>
+    </bib:Journal>
+    <bib:Book rdf:about="http://archive.org/details/BrincatEd.CommunismInThe21stCentury">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ollman, Bertell</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_40"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Communism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Communism In The 21st Century - Shannon Brincat ( Ed.)</dc:title>
+        <dcterms:abstract>A three-volume exploration of the philosophical, social, and 
+political facets of the theory and practice of communism within the 
+conditions of the 21st-century.</dcterms:abstract>
+        <z:language>English</z:language>
+        <z:libraryCatalog>Internet Archive</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://archive.org/details/BrincatEd.CommunismInThe21stCentury</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-25 08:50:27</dcterms:dateSubmitted>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_40">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Ollman, Bertell “Communism: The Utopian ‘Marxist Vision’ versus a Dialectical and Scientific Marxist Approach”, vol. 1 chpt. 4., pp. 63-82&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://www.scribd.com/document/167529317/Dialectical-Investigations-How-to-Study-Class-Consciousness-and-Why-We-Should-DIALECTICAL-MARXISM-The-Writings-of-Bertell-Ollman-pdf">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Scribd</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ollman, Bertell</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44"/>
+        <link:link rdf:resource="#item_43"/>
+        <dc:title>Dialectical Investigations - How To Study Class Consciousness... and Why We Should - Dialectical Marxism - The Writings of Bertell Ollman</dc:title>
+        <dcterms:abstract>GOOD READ</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scribd.com/document/167529317/Dialectical-Investigations-How-to-Study-Class-Consciousness-and-Why-We-Should-DIALECTICAL-MARXISM-The-Writings-of-Bertell-Ollman-pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-25 10:55:23</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_44">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;chpt. 9 “How to study class consciousness…And why we should”&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_43">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/43/Dialectical-Investigations-How-to-Study-Class-Consciousness-and-Why-We-Should-DIALECTICAL-MARXI.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scribd.com/document/167529317/Dialectical-Investigations-How-to-Study-Class-Consciousness-and-Why-We-Should-DIALECTICAL-MARXISM-The-Writings-of-Bertell-Ollman-pdf#</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-25 10:55:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/archive/lenin/works/1913/dec/x01.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Lenin</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_47"/>
+        <link:link rdf:resource="#item_46"/>
+        <dc:title>Lenin: The Marx-Engels Correspondence</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/lenin/works/1913/dec/x01.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-25 23:05:36</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_47">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;“If one were to attempt to define in a single word the focus, so to speak, of the whole correspondence, the central point at which the whole body of ideas expressed and discussed converges—that word would be &lt;em&gt;dialectics&lt;/em&gt;. The application of materialist dialectics to the reshaping of all political economy from its foundations up, its application to history, natural science, philosophy and to the policy and tactics of the working class—that was what interested Marx and Engels most of all, that was where they contributed what was most essential and new, and that was what constituted the masterly advance they made in the history of revolutionary thought.”&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/46/x01.html"/>
+        <dc:title>Lenin: The Marx-Engels Correspondence</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/lenin/works/1913/dec/x01.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-25 23:05:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1080/08935699008657901">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0893-5696"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ollman</foaf:surname>
+                        <foaf:givenName>Bertell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Putting Dialectics to Work: The Process of Abstraction in Marx's Method</dc:title>
+        <dc:date>1990-03-01</dc:date>
+        <z:shortTitle>Putting Dialectics to Work</z:shortTitle>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1080/08935699008657901</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-26 09:20:39</dcterms:dateSubmitted>
+        <dc:description>Publisher: Routledge
+_eprint: https://doi.org/10.1080/08935699008657901</dc:description>
+        <bib:pages>26-74</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0893-5696">
+        <prism:volume>3</prism:volume>
+        <dc:title>Rethinking Marxism</dc:title>
+        <dc:identifier>DOI 10.1080/08935699008657901</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0893-5696</dc:identifier>
+    </bib:Journal>
+    <bib:Book rdf:about="urn:isbn:978-0-521-29083-8">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Cambridge Studies in the History and Theory of Politics</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ollman</foaf:surname>
+                        <foaf:givenName>Bertell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_51"/>
+        <link:link rdf:resource="#item_50"/>
+        <dc:title>Alienation: Marx's Conception of Man in a Capitalist Society</dc:title>
+        <dcterms:abstract>In this book, the most thorough account of Marx's theory of alienation yet to have appeared in English, Professor Ollman reconstructs the theory from its constituent parts and offers it as a vantage point from which to view the rest of Marxism. The book further contains a detailed examination of Marx's philosophy of internal relations, the much neglected logical foudation of his method, and provides a systematic account of Marx's conception of human nature. Because of its almost unique concern with helping readers understand Marx's unusual use of language, Alienation has proven very popular in university courses on Marxism on both undergraduate and graduate levels. The first edition was widely reviewed, and in this new edition Professor Ollman replies to his critics in 'More on internal relations,' published here as Appendix II. In addition to this new appendix the author now provides a more systematic discussion of Marx's theory of ideology, elements of which were formerly dispersed throughout the book. He also attempts to set the treatment of political alienation within the broader framework of Marx's theory of the state as a model of how an approach based on internal relations can be used to integrate various apparently contradictory interpretations of Marx's views.</dcterms:abstract>
+        <dc:date>1977</dc:date>
+        <z:shortTitle>Alienation</z:shortTitle>
+        <z:libraryCatalog>Cambridge University Press</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/books/alienation/A6FB393ADE1E6106D97F5F7B7B06BE30</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-26 09:21:59</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/CBO9780511611902</dc:description>
+        <dc:identifier>ISBN 978-0-521-29083-8</dc:identifier>
+        <prism:edition>2</prism:edition>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_51">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;esp. Chpt. 5 “Dialectic as outlook”; and Chpt. 6 “Dialectic as inquiry and exposition”&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_50">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/50/A6FB393ADE1E6106D97F5F7B7B06BE30.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/books/alienation/A6FB393ADE1E6106D97F5F7B7B06BE30</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-26 09:22:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.radicalphilosophy.com/article/in-defence-of-internal-relations">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0300-211X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ollman</foaf:surname>
+                        <foaf:givenName>Bertell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_53"/>
+        <dc:title>In Defence of Internal Relations</dc:title>
+        <dcterms:abstract>In Defence of Inlemai Relalions -Beriell OIlman 11 Most of the criticisms of Alienation have centered on my account of Marx’s philosophy of internal relations. I would like to take advantage of the appearance of a second edition to develop ...</dcterms:abstract>
+        <dc:date>1976</dc:date>
+        <z:language>en_GB</z:language>
+        <z:libraryCatalog>www.radicalphilosophy.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.radicalphilosophy.com/article/in-defence-of-internal-relations</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-27 01:34:21</dcterms:dateSubmitted>
+        <dc:rights>CC BY-NC-ND</dc:rights>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0300-211X">
+        <dc:title>Radical Philosophy</dc:title>
+        <prism:number>013</prism:number>
+        <dc:identifier>ISSN 0300-211X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_53">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/53/Ollman - 1976 - In Defence of Internal Relations.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.radicalphilosophyarchive.com/issue-files/rp13_article3_indefenceofinternalrelations_ollman.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-27 01:34:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="http://archive.org/details/ollman1973">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ollman, Bertell</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>marx</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Marxism and Political Science: Prolegomenon to a Debate on Marx's Method</dc:title>
+        <dcterms:abstract>Ollman breaks down Marx's method into five stages:
+1. ontology2. epistemology3. inquiry4. intellectual reconstruction5. exposition</dcterms:abstract>
+        <dc:date>1973</dc:date>
+        <z:language>eng</z:language>
+        <z:shortTitle>Marxism and Political Science</z:shortTitle>
+        <z:libraryCatalog>Internet Archive</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://archive.org/details/ollman1973</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-27 02:21:12</dcterms:dateSubmitted>
+        <z:numPages>20</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-1-58367-806-0">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>NYU Press</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boggs</foaf:surname>
+                        <foaf:givenName>Grace Lee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_57"/>
+        <link:link rdf:resource="#item_56"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Political Science / Political Ideologies / Communism, Post-Communism &amp; Socialism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Revolution and Evolution</dc:title>
+        <dcterms:abstract>This book provides a concise and instructive review of the revolutions of the twentieth century, with separate chapters on the Russian, Chinese, Guinea-Bissau, and Vietnamese revolutions, in which the authors seek to extract the principle lessons from each of these struggles and the special course taken by each. In these and in a summary chapter on the dialectics of revolution the authors furnish a picture of the principal aspects of Marxism, Leninism, Maoism, and the other currents of Marxism active in the revolutions of our times. A second section is devoted to the United States, and begins with a survey of the class forces in American history from the settlement of the original thirteen colonies to the present, with special attention to the enslaved black population. Thereafter, the authors present their ideas on the objects and means of an American Revolution.Includes new introduction by Grace Lee Boggs.</dcterms:abstract>
+        <dc:date>2019-02-15</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: M6WSDwAAQBAJ</dc:description>
+        <dc:identifier>ISBN 978-1-58367-806-0</dc:identifier>
+        <z:numPages>307</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_57">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Chpt. 6 “Dialectics and revolution”&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_56">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Google Books Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com.au/books?id=M6WSDwAAQBAJ</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-27 07:02:52</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-1-4008-6841-4">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-1-4008-6841-4</dc:identifier>
+                <dc:title>Continuing the Revolution</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Princeton University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Starr</foaf:surname>
+                        <foaf:givenName>John Bryan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_61"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Capitalism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Philosophy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Politics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Communism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ad hominem</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Analogy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Antagonistic contradiction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Antithesis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Base and superstructure</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bourgeoisie</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bureaucracy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bureaucrat</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Career</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Central Committee</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Chinese philosophy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Class analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Class conflict</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cognition</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Communist Party of China</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Communist revolution</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Communist society</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Communization</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Comrade</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Confucianism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Confucius</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Counter-revolutionary</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Criticism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Cultural Revolution</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cyclical theory</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Decentralization</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Democratic centralism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dialectic</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dialectical logic</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dialectical materialism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dictatorship</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dictatorship of the proletariat</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Edgar Snow</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Education</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Explanation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Externality</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>For Marx</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Great Leap Forward</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Group analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ideal type</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ideology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Imperialism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Individualism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Institution</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ivan Illich</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Jean-Paul Sartre</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Leninism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Lin Biao</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Literature</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Liu Shaoqi</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mao Zedong</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Maoism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Marxism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Marxism–Leninism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mass line</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Max Weber</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>May Fourth Movement</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Modernity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>New class</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Obscurantism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Of Education</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>On Contradiction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>On Practice</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Oppression</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Patriarchalism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Peaceful coexistence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Peng Dehuai</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>People's democratic dictatorship</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Petite bourgeoisie</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Political party</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Political philosophy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Political science</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Proletarian internationalism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ralf Dahrendorf</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Reactionary</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Red Star Over China</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Reflections on Violence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Scientism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Self-Reliance</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Social class</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Socialist Education Movement</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Socialist society (Labour Party)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Soviet Union</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Stuart R. Schram</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Subversion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Superiority (short story)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Taoism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>The German Ideology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>The Other Hand</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thomas Kuhn</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thought</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Unity of opposites</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Utilitarianism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Writing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Yin and yang</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Yugoslavia</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Continuing the Revolution: The Political Thought of Mao</dc:title>
+        <dcterms:abstract>The author investigates the internal logic and evolution of Mao's theory in terms of various themes. Beginning with a consideration of conflict, which in Mao's view is a given and permanent component of society, Professor Starr then takes up the individual concepts of knowledge and action, authority, class and class conflict, organization, participation and representation, political education, political history, and political development. Originally published in 1979. The Princeton Legacy Library uses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These editions preserve the original texts of these important books while presenting them in durable paperback and hardcover editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.</dcterms:abstract>
+        <dc:date>2015-03-08</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Continuing the Revolution</z:shortTitle>
+        <z:libraryCatalog>www.degruyter.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.degruyter.com/document/doi/10.1515/9781400868414/html?lang=en</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-29 05:43:39</dcterms:dateSubmitted>
+        <dc:rights>De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.</dc:rights>
+        <dc:description>DOI: 10.1515/9781400868414</dc:description>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_61">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;esp.. Chpt. 1 “On conflict”&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://www.goodreads.com/book/show/10634780-dialectical-materialism">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Gollobin, Ira</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_63"/>
+        <dc:title>Dialectical Materialism: Its Laws, Categories and Pract…</dc:title>
+        <dcterms:abstract>Read reviews from the world’s largest community for readers. undefined</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:shortTitle>Dialectical Materialism</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.goodreads.com/book/show/10634780-dialectical-materialism</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-29 05:46:36</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_63">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/63/10634780-dialectical-materialism.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.goodreads.com/book/show/10634780-dialectical-materialism</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-08-29 05:46:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/archive/dietzgen/1887/positive-outcome/index.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Dietzgen, Joseph</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_66"/>
+        <link:link rdf:resource="#item_65"/>
+        <dc:title>The Positive Outcome of Philosophy</dc:title>
+        <dc:date>1887</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/dietzgen/1887/positive-outcome/index.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 10:21:58</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_66">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;“Is not everything a part, is not every part a thing? Is the color of a leaf less of a thing than that leaf itself? Perhaps some would call the color simply an attribute and the leaf its substance, because there might be a leaf without color, but no color without a leaf…. Color is only the sum of reactions of leaf, light, and eye, and so is all the rest of the matter of a leaf an aggregate of interactions. In the same way in which our reason deprives a leaf of its color attributes and sets it apart as a “thing itself,” may we continue to deprive that leaf of all its other attributes, and in so doing we finally take away everything that makes the leaf. Color is in its nature no less a substance than the leaf itself, and the leaf is no less an attribute than its color. As the color is an attribute of a leaf, so a leaf is an attribute of a tree, a tree an attribute of the earth, the earth an attribute of the universe. The universe is the substance, substance in general, and all other substances are but its attributes. And this world-substance reveals the fact that the nature of things, the “thing itself” as distinguished from its manifestations, is only a concept of the mind.”&lt;br&gt;pp. 84-85&lt;/p&gt;
+&lt;p&gt;I prefer W.W. Craik’s translation, quoted in Bertell Ollman’s &lt;em&gt;Dance of the Dialectic: steps in Marx’s method&lt;/em&gt;, University of Illinois Press, 2003, p.49.&lt;/p&gt;
+&lt;p&gt;See note 17, of chapter 3, which quotes Dietzgen, the German tanner whom Marx introduced to the Hague Congress of the First International by saying “Here is our philosopher”:&lt;/p&gt;
+&lt;p&gt;“Is not every &lt;em&gt;thing&lt;/em&gt; a part, is not &lt;em&gt;every&lt;/em&gt; part a thing? Is the color of a leaf less of a thing than that leaf itself? . . . Color is only the sum of reactions of the leaf, light, and eye, and so is all the rest of the matter of a leaf an aggregate of different interactions. In the same&lt;br&gt;way in which our faculty of thought deprives a leaf of its color attribute and sets it apart as a ‘thing itself,’ may we continue to deprive that leaf of all its other attributes, and so doing we finally take away everything that makes the leaf. Color is according to its quality no less a substance than the leaf, and the leaf is no less an attribute than its color. As the color is an attribute of the leaf, so the leaf is an attribute of the tree, the tree an attribute of the earth, the earth an attribute of the universe. The universe is the substance, substance in general, and all other substances are in relation to it only particular substances or attributes. But by this world-substance is revealed the fact that the &lt;em&gt;essence of the thing-in-itself, as distinguished from its manifestations, is only a concept of the mind or mental thing&lt;/em&gt;” (1928, 103-4).&lt;br&gt;It should be recalled that it is Dietzgen’s account of the “thing-in-itself as a thing made of thought” that Engels said was “brilliant.”&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/65/index.html"/>
+        <dc:title>The Positive Outcome of Philosophy. Joseph Dietzgen 1887</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/dietzgen/1887/positive-outcome/index.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 10:22:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/archive/marx/works/1844/epm/3rd.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Marx</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_71"/>
+        <link:link rdf:resource="#item_70"/>
+        <dc:title>The Economic and Philosophical Manuscripts: 3rd Manuscript</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1844/epm/3rd.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 13:04:43</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_71">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;see section entitled “Critique of Hegel’s Dialectic and General Philosophy&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/70/3rd.html"/>
+        <dc:title>The Economic and Philosophical Manuscripts: 3rd Manuscript</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/marx/works/1844/epm/3rd.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 13:04:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://redsails.org/third-manuscript-on-hegel/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Marx</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_73"/>
+        <dc:title>Critique of Hegel’s Dialectic and General Philosophy</dc:title>
+        <dcterms:abstract>This is, perhaps, the place to make a few remarks, by way of explanation and justification, about the Hegelian dialectic — both in general and in particular, as expounded in the Phenomenology and Logic, as well as about its relation to the modern critical…</dcterms:abstract>
+        <dc:date>1844</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://redsails.org/third-manuscript-on-hegel/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 13:08:11</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_73">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/73/third-manuscript-on-hegel.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://redsails.org/third-manuscript-on-hegel/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 13:08:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://redsails.org/what-is-dialectics/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Day, Roderic</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_75"/>
+        <dc:title>What is Dialectics?</dc:title>
+        <dcterms:abstract>What is dialectics? Here are two definitions:</dcterms:abstract>
+        <dc:date>2022-03-19</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://redsails.org/what-is-dialectics/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 13:14:40</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_75">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/75/what-is-dialectics.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://redsails.org/what-is-dialectics/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 13:14:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://redsails.org/on-dialectics/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Frome, Nina</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_77"/>
+        <dc:title>On Dialectics, or How to Defeat Enemies</dc:title>
+        <dcterms:abstract>What’s the difference between a fistfight and an argument? Both exist on a spectrum between dirty and clean. Both have to do with ego, or principle, or some weird mix of the two. Fistfights may end in injury or death for the combatants, so it seems like people should take them…</dcterms:abstract>
+        <dc:date>2021-06-25</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://redsails.org/on-dialectics/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 13:21:31</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_77">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/77/on-dialectics.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://redsails.org/on-dialectics/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 13:21:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/archive/lenin/works/1915/misc/x02.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Lenin</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_79"/>
+        <dc:title>On the Question of Dialectics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/lenin/works/1915/misc/x02.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 13:23:59</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_79">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/79/x02.html"/>
+        <dc:title>On the Question of Dialectics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/lenin/works/1915/misc/x02.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-04 13:24:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/14672715.1977.10406395">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0007-4810"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Freiberg</foaf:surname>
+                        <foaf:givenName>J. W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_80"/>
+        <dc:title>The dialectic in China: Maoist and Daoist</dc:title>
+        <dc:date>03/1977</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The dialectic in China</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/14672715.1977.10406395</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-05 22:52:39</dcterms:dateSubmitted>
+        <bib:pages>2-19</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0007-4810">
+        <prism:volume>9</prism:volume>
+        <dc:title>Bulletin of Concerned Asian Scholars</dc:title>
+        <dc:identifier>DOI 10.1080/14672715.1977.10406395</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Bulletin of Concerned Asian Scholars</dcterms:alternative>
+        <dc:identifier>ISSN 0007-4810</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_80">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/80/Freiberg - 1977 - The dialectic in China Maoist and Daoist.pdf"/>
+        <dc:title>Freiberg - 1977 - The dialectic in China Maoist and Daoist.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://leftychan.net/edu/src/1620471161487-0.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-05 22:52:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="http://archive.org/details/marx-karl.-a-contribution-to-the-critique-of-political-economy">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marx</foaf:surname>
+                        <foaf:givenName>Karl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Рязанская</foaf:surname>
+                        <foaf:givenName>Саломея Вольфовна</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dobb</foaf:surname>
+                        <foaf:givenName>Maurice</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_85"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>political economy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Marx Karl. A Contribution to the Critique of Political Economy</dc:title>
+        <dcterms:abstract>Transl. from the German by S. W. Ryazanskaya; ed. by Maurice Dobb. — Moscow: Progress Publishers, 1977. — 262 p.Contents
+
+Introduction. By Maurice DobbKarl Marx. A Contribution to the Critique of Political EconomyPrefaceOn CapitalCapital in GeneralThe Commodity
+Money or Simple CirculationAppendicesKarl Marx. Introduction
+Frederick Engels. Karl Marx, &quot;A Contribution to the Critique of Political Economy”, Part One, Franz Dunckcr, Berlin, 1859 (Review)Notes
+Name Index
+Index of Authorities
+Subject Index</dcterms:abstract>
+        <dc:date>1977</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>Internet Archive</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://archive.org/details/marx-karl.-a-contribution-to-the-critique-of-political-economy</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-06 00:20:43</dcterms:dateSubmitted>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_85">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;NB: the notion of complementarity of opposites p.204-205&lt;/p&gt;
+&lt;p&gt;“The conclusion which follows from this is, not that production, distribution, exchange and consumption are identical, but that they are &lt;u&gt;links of a single whole, different aspects of one unit&lt;/u&gt;. Production is the decisive phase, both with regard to the contradictory aspects of production and with regard to the other phases. The process always starts afresh with production. That exchange and consumption cannot be the decisive elements, is obvious; and the same applies to distribution in the sense of distribution of products. Distribution of the factors of production, on the other hand, is itself a phase of production. A distinct mode of production thus determines the specific mode of consumption, distribution, exchange and the specific relations of these different phases to one another. Production in the narrow sense, however, is in its turn also determined by the other aspects. For example, if the market, or the sphere of exchange, expands, then the volume of production grows and tends to become more differentiated. Production also changes in consequence of changes in distribution, e.g., concentration of capital, different distribution of the population in town and countryside, and the like. Production is, finally, determined by the demands of consumption. &lt;u&gt;There is an interaction between the various aspects. Such interaction takes place in any organic entity&lt;/u&gt;”&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://redsails.org/maoist-and-daoist-dialectics/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Freiberg, J. W.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_87"/>
+        <dc:title>The Dialectic in China: Maoist and Daoist</dc:title>
+        <dcterms:abstract>The purpose of this essay is to investigate in detail the notion of “dialectic,” and more particularly to do so by looking at the origins and operational logic of Mao Ze-dong’s military strategy. We are all aware of the Western dialectical tradition in philosophy; Hegel in…</dcterms:abstract>
+        <dc:date>1977</dc:date>
+        <z:shortTitle>The Dialectic in China</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://redsails.org/maoist-and-daoist-dialectics/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-06 00:45:56</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_87">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/87/maoist-and-daoist-dialectics.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://redsails.org/maoist-and-daoist-dialectics/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-06 00:46:02</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/archive/lenin/works/1914/cons-logic/summary.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Lenin</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_90"/>
+        <link:link rdf:resource="#item_89"/>
+        <dc:title>Lenin's Summary of Hegel's Dialectics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/lenin/works/1914/cons-logic/summary.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-06 01:18:45</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_90">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;from: Lenin’s &lt;em&gt;&lt;a href=&quot;https://www.marxists.org/archive/lenin/works/cw/index.htm&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;Collected Works&lt;/a&gt;&lt;/em&gt;, 2nd English Edition, Progress Publishers, Moscow, 1965, &lt;a href=&quot;https://www.marxists.org/archive/lenin/works/cw/volume38.htm&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;Volume 38&lt;/a&gt;,&lt;/p&gt;
+&lt;p&gt;See also the helpful rearrangement of the list in J. W. Freiberg “The dialectic in China: Maoist and Daoist” :&lt;/p&gt;
+&lt;p&gt;. Lenin lists sixteen “Elements of Dialectics,” as he calls them, and they extend the considerations mentioned above. The following list rearranges the twelve of the sixteen Elements which are subsumed under the four dialectical principles already considered. (Emphases are Lenin’s)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+Negation of the Negation (development through contradiction):&lt;br&gt;“The apparent return to the old (negation of the negation).”
+&lt;/li&gt;
+&lt;li&gt;
+Complementarity of Opposites:&lt;br&gt;“The internally contradictory &lt;em&gt;tendencies&lt;/em&gt; in this thing.”&lt;br&gt;“The thing as the sum and &lt;em&gt;unity of opposites&lt;/em&gt;.”&lt;br&gt;“The &lt;em&gt;struggle,&lt;/em&gt; respectively unfolding, of these opposites, contradictory strivings.”
+&lt;/li&gt;
+&lt;li&gt;
+Interplay of Quantitative and Qualitative Change:&lt;br&gt;“Not only the unity of opposites, but the &lt;em&gt;transitions&lt;/em&gt; of &lt;em&gt;every&lt;/em&gt; determination, quality, feature, side, property into &lt;em&gt;every&lt;/em&gt; other (into its opposites?).”&lt;br&gt;“The struggle of content with form and conversely. The throwing off of the form, the transformations of the content.”&lt;br&gt;“The transition of quantity into quality and &lt;em&gt;vice versa&lt;/em&gt;.”
+&lt;/li&gt;
+&lt;li&gt;
+The Spiral Form of the Development of Things (and knowledge):&lt;br&gt;“The &lt;em&gt;development&lt;/em&gt; of this thing.”&lt;br&gt;“The endless process of the discovery of new sides, relations.”&lt;br&gt;“The endless process of the deepening of man’s knowledge of the thing, … from appearance to essence and from less profound to more profound essence.”&lt;br&gt;“From co-existence to causality and from one form of connection and reciprocal dependence to another, deeper, more general form.”&lt;br&gt;“The repetition at a higher stage of certain features, properties, etc. of the lower.”
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This leaves four more of Lenin’s “elements” which seem to me to add three new propositions to our consideration of dialectical logic.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+Specificity of the Thing Considered:&lt;br&gt;“The &lt;em&gt;objectivity&lt;/em&gt; of specific consideration.”
+&lt;/li&gt;
+&lt;li&gt;
+The Perspective of Totality:&lt;br&gt;“The entire totality of the manifold &lt;em&gt;relations&lt;/em&gt; of this thing to others.”&lt;br&gt;“The universal relations of the thing with &lt;em&gt;every other&lt;/em&gt; thing.”
+&lt;/li&gt;
+&lt;li&gt;
+The Union of Analysis and Synthesis:&lt;br&gt;“The union of analysis and synthesis&amp;nbsp;— the break-down of the separate parts and the totality, the summation of these parts.”
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These seven major elements of the Hegelian-Marxist-Leninist dialectical logic give some idea of what direction a more detailed study might take; here they provide only a sketch.&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_89">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/89/summary.html"/>
+        <dc:title>Lenin's Summary of Hegel's Dialectics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/archive/lenin/works/1914/cons-logic/summary.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-06 01:18:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_09.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mao ZeDong</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_92"/>
+        <dc:title>On Protracted War</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_09.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-08 02:03:41</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_92">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/92/mswv2_09.html"/>
+        <dc:title>ON PROTRACTED WAR</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_09.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-08 02:03:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://monthlyreview.org/2023/01/01/reflections-on-lenins-dialectics/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Monthly Review</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kondrashov</foaf:surname>
+                        <foaf:givenName>Pyotr</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_94"/>
+        <dc:title>Reflections on Lenin's dialectics</dc:title>
+        <dcterms:abstract>Pyotr Kondrashov takes a deep dive into Lenin's understanding of social dialectics. This exploration gives rise to an approach to that places the active human subject squarely in the center of a…</dcterms:abstract>
+        <dc:date>2023-01-01</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://monthlyreview.org/2023/01/01/reflections-on-lenins-dialectics/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-14 08:05:58</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_94">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/94/reflections-on-lenins-dialectics.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://monthlyreview.org/2023/01/01/reflections-on-lenins-dialectics/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-14 08:06:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://links.org.au/how-hegelian-was-marx-contribution-history-marx-and-young-hegelianism">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Devine, Jason</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_96"/>
+        <dc:title>How Hegelian was Marx? A contribution to the history of Marx and Young Hegelianism | Links</dc:title>
+        <dcterms:abstract>Jason Devine — Reading what Lenin wrote about Marx can really only tell us what the former thought about the latter. It is best to refer back to actual sources. In this way we can see that the idea Marx was a Hegelian idealist is pure myth.</dcterms:abstract>
+        <dc:date>2023-08-24</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>How Hegelian was Marx?</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/how-hegelian-was-marx-contribution-history-marx-and-young-hegelianism</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:39:09</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_96">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/96/how-hegelian-was-marx-contribution-history-marx-and-young-hegelianism.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/how-hegelian-was-marx-contribution-history-marx-and-young-hegelianism</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:39:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://links.org.au/lenins-materialism-and-empirio-criticism-critical-comments-confused-philosophy">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Devine, Jason</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_98"/>
+        <dc:title>On Lenin’s Materialism and Empirio-Criticism: Critical Comments on a Confused Philosophy | Links</dc:title>
+        <dcterms:abstract>Jason Devine - Gregory Zinoviev once aptly noted that around “everything that Lenin wrote there is always seething strife. Nobody can remain indifferent to his writings. You can hate Lenin, you can love Lenin to distraction, but you cannot remain neutral.” Nowhere is this truer than his famous 1909 book Materialism and Empirio-criticism: Critical Comments on a Reactionary Philosophy (MEC).</dcterms:abstract>
+        <dc:date>2022-09-27</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>On Lenin’s Materialism and Empirio-Criticism</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/lenins-materialism-and-empirio-criticism-critical-comments-confused-philosophy</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:40:09</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_98">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/98/lenins-materialism-and-empirio-criticism-critical-comments-confused-philosophy.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/lenins-materialism-and-empirio-criticism-critical-comments-confused-philosophy</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:40:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://links.org.au/philosophy-dialectical-materialism">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Devine, Jason</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_100"/>
+        <dc:title>On the “Philosophy” of “Dialectical Materialism” | Links</dc:title>
+        <dcterms:abstract>Lenin was completely wrong when he stated in his classic work, Materialism and Empirio-Criticism, that 'All these people could not have been ignorant of the fact that Marx and Engels scores of times termed their philosophical views dialectical materialism.' By Jason Devine April 20, 2016 -- Submitted by the author to Links International Journal of Socialist Renewal -- It has and continues to be argued that Marxism has a philosophy and that such philosophy is termed dialectical materialism. It is further argued that historical materialism is the result of the application of dialectical materialism “to the study of human society.” To put it into very simple terms, these formulations take the form of a basic math equation: Dialectical Materialism + Social Reality = Historical Materialism However, no matter how it is stated, it is not so. To be more precise, while we can make a theoretical distinction between what we call dialectical materialism and historical materialism, they are in fact two sides of the same coin; or rather one and the same thing.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/philosophy-dialectical-materialism</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:42:34</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_100">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/100/philosophy-dialectical-materialism.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/philosophy-dialectical-materialism</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:42:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://links.org.au/kautsky-and-bolsheviks-hegel-and-marx-dialectics-triad-and-triplicity">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Devine, Jason</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_102"/>
+        <dc:title>From Kautsky and the Bolsheviks, to Hegel and Marx: Dialectics, the triad and triplicity | Links</dc:title>
+        <dcterms:abstract>By Jason Devine</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:shortTitle>From Kautsky and the Bolsheviks, to Hegel and Marx</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/kautsky-and-bolsheviks-hegel-and-marx-dialectics-triad-and-triplicity</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:43:25</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_102">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/102/kautsky-and-bolsheviks-hegel-and-marx-dialectics-triad-and-triplicity.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/kautsky-and-bolsheviks-hegel-and-marx-dialectics-triad-and-triplicity</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:43:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://links.org.au/dialectics-historical-and-logical-hegel-and-marx">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Devine, Jason</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The dialectics of the historical and logical in Hegel and Marx | Links</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/dialectics-historical-and-logical-hegel-and-marx</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:43:39</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://links.org.au/georgi-plekhanov-and-roots-soviet-philosophy">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Devine, Jason</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Georgi Plekhanov and the roots of Soviet philosophy | Links</dc:title>
+        <dcterms:abstract>By Jason Devine January 11, 2017 –– Links International Journal of Socialist Renewal –– Marxism was born through a critical appropriation of Hegel’s method and a radical break with the philosophy of Young Hegelianism.[1] With this, Marx declared that philosophy was over. As he wrote to Ferdinand Lassalle in regards to the Hegelian dialectic, “This dialectic is, to be sure, the ultimate word in philosophy and hence there is all the more need to divest it of the mystical aura given it by Hegel.”[2] Even more explicitly, Engels wrote in an early introduction to his Anti-Dühring: “The Hegelian system was the last and consummate form of philosophy, in so far as the latter is presented as a special science superior to every other. All philosophy collapsed with this system.”[3] Hence, any attempts to revive philosophy i.e. a specific form of ideology, could only be a step backwards from the advance made by Marx and Engels, could only ever be a reactionary project. If carried out within Marxism it can only mean a reversion back to pre-Marxist times, to pre-scientific views in the study of society. Dialectical materialism as the philosophy of Marxism is exactly such a reactionary turn. In fact, dialectical materialism, the ruling philosophy in the USSR, a philosophy which, in whole or in part, countless Marxist-Leninist parties, groups, and sects claim adherence to today, was essentially the product of Georgi Plekhanov. However, Plekhanov’s philosophy of dialectical materialism was not and is not synonymous with Marx’s method, with scientific socialism. Rather, the former can be more correctly described as neo-Young Hegelian.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/georgi-plekhanov-and-roots-soviet-philosophy</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:43:52</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://links.org.au/dialectical-logic-platos-parmenides-hegels-logic-and-marxs-critique-political-economy">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Devine, Jason</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Dialectical logic in Plato’s ‘Parmenides’, Hegel’s ‘Logic’ and Marx’s ‘Critique of Political Economy’ | Links</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/dialectical-logic-platos-parmenides-hegels-logic-and-marxs-critique-political-economy</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:44:08</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://links.org.au/dialectical-materialism-ideology-and-revisionism">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Devine, Jason</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>“Dialectical materialism,” ideology and revisionism | Links</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/dialectical-materialism-ideology-and-revisionism</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:44:20</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://links.org.au/fire-dialectical-heritage">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Devine, Jason</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>On fire: A dialectical heritage | Links</dc:title>
+        <dcterms:abstract>By Jason Devine</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:shortTitle>On fire</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://links.org.au/fire-dialectical-heritage</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-09-15 06:44:31</dcterms:dateSubmitted>
+    </bib:Document>
+</rdf:RDF>
